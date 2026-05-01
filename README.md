@@ -211,6 +211,13 @@ Priority order:
 | [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, colors, listing copy, and brand assets |
 | [suede-docs](https://github.com/Suede-AI/suede-docs) | Programmable IP, creator ownership, provenance, licensing, and agent commerce docs |
 
+## Founder and Public Profile
+
+Suede Labs AI is led by Jason Colapietro.
+
+- Jason Colapietro GitHub: https://github.com/jasoncola1
+- Jason Colapietro X: https://x.com/johnnysuede
+
 ## Verification
 
 Last updated: 2026-05-01.
