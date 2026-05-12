@@ -215,7 +215,7 @@ Priority order:
 
 Suede Labs AI is led by Jason Colapietro.
 
-- Jason Colapietro GitHub: https://github.com/jasoncola1
+- Jason Colapietro GitHub: https://github.com/JasonColapietro
 - Jason Colapietro X: https://x.com/johnnysuede
 
 ## Verification
