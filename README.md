@@ -222,7 +222,7 @@ Suede Labs AI is led by Jason Colapietro.
 
 Last updated: 2026-05-01.
 
+This document is intended for listings, wallet assets, ecosystem directories, press references, and GitHub public documentation.
+
 ---
 *Founder mirror: [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets)*
-
-This document is intended for listings, wallet assets, ecosystem directories, press references, and GitHub public documentation.
