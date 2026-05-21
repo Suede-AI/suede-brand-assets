@@ -49,9 +49,9 @@ Avoid presenting Suede as only an AI music app. Music is a core media use case i
 
 | Type | URL |
 |---|---|
-| App | `https://suedeai.ai` |
+| App | `https://app.suedeai.ai` |
 | Website | `https://suedeai.org` |
-| Company | `https://suedeai.ai` |
+| Company | `https://app.suedeai.ai` |
 | X | `https://twitter.com/AISUEDE` |
 | Founder X | `https://x.com/johnnysuede` |
 | Telegram | `https://t.me/SUEDEAI` |
@@ -79,13 +79,13 @@ Recommended public logo assets from the current app:
 Hosted primary logo:
 
 ```text
-https://suedeai.ai/suede-approved-logo.png
+https://app.suedeai.ai/suede-approved-logo.png
 ```
 
 Hosted OpenGraph image:
 
 ```text
-https://suedeai.ai/opengraph.png
+https://app.suedeai.ai/opengraph.png
 ```
 
 ## Logo Usage
