@@ -132,7 +132,6 @@ Current Suede app colors are built around deep navy, clean white, orange energy,
 | Chainlink Blue | `#2A5ADA` |
 | Google Blue | `#4285F4` |
 | Stripe Purple | `#635BFF` |
-| Spotify Green | `#1DB954` |
 | Apple Music Red | `#FA243C` |
 
 ## Typography
