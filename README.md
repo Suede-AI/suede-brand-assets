@@ -236,3 +236,10 @@ This document is intended for listings, wallet assets, ecosystem directories, pr
 
 ---
 *Founder mirror: [JasonColapietro/suede-brand-assets](https://github.com/JasonColapietro/suede-brand-assets)*
+
+
+## Books by Jason Colapietro
+
+- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Kindle)
+- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Kindle)
+- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Kindle)
