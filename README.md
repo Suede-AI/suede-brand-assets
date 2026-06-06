@@ -98,9 +98,25 @@ https://app.suedeai.ai/opengraph.png
 
 ## Color System
 
-Current Suede app colors are built around deep navy, clean white, orange energy, and cyan/sky technical accents.
+The canonical Suede brand uses the **Institutional IP Terminal** palette: Rights Red, Registry Cyan, and Deep Ink. Earlier marketing surfaces used a navy/orange/cyan stack — those tokens are documented below as **Legacy** for reference only. New work should follow the Institutional IP Terminal palette.
 
-### Core
+### Institutional IP Terminal (canonical)
+
+| Name | Role |
+|---|---|
+| Deep Ink | Primary surface / dark background |
+| Paper | Light surface / off-white background |
+| Rights Red | Primary accent — registry state, active routes, primary CTA |
+| Registry Cyan | Secondary technical accent — protocol / agent / chain UI |
+| Graphite | Body text on light surfaces |
+
+Hex values for Institutional IP Terminal tokens live in [suede-home/DESIGN.md](https://github.com/Suede-AI/Suede-AI-App/blob/main/suede-home/DESIGN.md) as the canonical reference.
+
+> **Launchpad constraint** — `launch.suedeai.ai` is LOCKED to black / white / Registry Cyan only. Rights Red is NOT used on the launchpad surface.
+
+### Legacy app palette (deprecated)
+
+Earlier Suede app surfaces (pre-Institutional IP Terminal) used these tokens. Documented for migration reference; do not use for new work.
 
 | Name | Hex | Use |
 |---|---|---|
@@ -110,15 +126,10 @@ Current Suede app colors are built around deep navy, clean white, orange energy,
 | Strong Panel | `#0d1726` | Elevated surfaces |
 | Ink | `#0f172a` | Light-mode text |
 | White | `#f8fafc` | Dark-mode text |
-
-### Brand Accents
-
-| Name | Hex | Use |
-|---|---|---|
-| Suede Orange | `#ff7733` | Primary energy/accent |
-| Warm Orange | `#ff8d6b` | CTA gradients |
+| Suede Orange | `#ff7733` | (legacy) Primary energy/accent — replaced by Rights Red |
+| Warm Orange | `#ff8d6b` | (legacy) CTA gradients — replaced by Rights Red |
 | Gold Highlight | `#f5d69a` | Founder/editorial highlight |
-| Cyan | `#22d3ee` | Technical accent |
+| Cyan | `#22d3ee` | Technical accent — aligns with Registry Cyan |
 | Sky | `#38bdf8` | Charts, links, highlights |
 | Bright Cyan | `#00c8ff` | Payment/subscription UI accent |
 | Emerald | `#34d399` | Success / verified states |
