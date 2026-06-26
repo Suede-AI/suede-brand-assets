@@ -1,5 +1,7 @@
 # Suede Brand Assets
 
+> **[Suede Labs AI](https://suedeai.ai) · By [Jason Colapietro](https://suedeai.ai/founder), Founder and CEO**
+
 Public brand and listing packet for Suede Labs, Johnny Suede (`SUEDE`), and the Suede programmable IP ecosystem.
 
 ## Brand Positioning
