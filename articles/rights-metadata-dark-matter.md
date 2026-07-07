@@ -126,6 +126,6 @@ Build the habit now.
 
 ---
 
-*Jason Colapietro is the founder of [Suede Labs AI](https://suedeai.ai) and the author of four books including [The Signal Chain](https://guitar.solutions) — a free illustrated history of electric guitar tone — and [The Guitar Without a Number](https://www.amazon.com/dp/B0GD5FX6N6), memoir-driven guitar instruction for the self-taught player with a music IP rights chapter no other guitar book includes.*
+*Jason Colapietro is the founder of [Suede Labs AI](https://suedeai.ai) and the author of books including [The Signal Chain](https://guitar.solutions) — a free illustrated history of electric guitar tone — and [The Guitar Without a Number](https://www.amazon.com/author/johnnysuede), memoir-driven guitar instruction for the self-taught player with a music IP rights chapter no other guitar book includes.*
 
 *Follow at [@johnnysuede](https://x.com/johnnysuede) · [suedeai.ai](https://suedeai.ai) · [guitar.solutions](https://guitar.solutions)*
