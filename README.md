@@ -211,15 +211,15 @@ Priority order:
 | Document | Purpose |
 |---|---|
 | [suede-token](https://github.com/Suede-AI/suede-token) | Token source-of-truth |
-| [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | Public endpoint reference |
+| [Suede x402 endpoint catalog](https://app.suedeai.ai/.well-known/x402.json) | Public endpoint reference |
 | [suede-docs](https://github.com/Suede-AI/suede-docs) | Public repo map and docs |
 
-## Public Suede Repositories
+## Public Suede Repositories and Catalogs
 
 | Repository | Purpose |
 |---|---|
 | [suede-token](https://github.com/Suede-AI/suede-token) | Token, contracts, supply, and ecosystem reference |
-| [suede-x402-acp](https://github.com/Suede-AI/suede-x402-acp) | x402 payment and ACP-ready endpoint reference |
+| [Suede x402 endpoint catalog](https://app.suedeai.ai/.well-known/x402.json) | Live x402 payment and ACP-ready endpoint reference |
 | [suede-brand-assets](https://github.com/Suede-AI/suede-brand-assets) | Logos, colors, listing copy, and brand assets |
 | [suede-docs](https://github.com/Suede-AI/suede-docs) | Programmable IP, creator ownership, provenance, licensing, and agent commerce docs |
 
