@@ -73,7 +73,6 @@ Recommended public logo assets from the current app:
 |---|---|---|
 | Primary approved logo | `assets/suede-approved-logo.png` | 400 x 400 PNG, transparent background |
 | Light approved logo | `assets/suede-approved-logo-light.png` | 400 x 400 PNG, transparent background |
-| Alternate logo | `assets/SuedeLogo2.png` | 400 x 400 PNG |
 | Alternate logo, web optimized | `assets/SuedeLogo2.webp` | WebP |
 | OpenGraph image | `assets/opengraph.png` | 2940 x 1486 PNG |
 | Alternate OpenGraph image | `assets/suede-og.png` | 2940 x 1444 PNG |
