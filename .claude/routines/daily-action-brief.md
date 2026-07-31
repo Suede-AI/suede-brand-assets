@@ -54,16 +54,26 @@ spec so the configuration is reviewable and can be rebuilt if the Routine is del
   unrelated viral moments.
 - A quiet day returns "no strong promo opening today" rather than a forced item.
 
+6. **Portfolio roll call** — renders Jason's full venture roster every day (JC
+   Investment Group, Suede Labs AI, the SUEDE token ecosystem, Suede Agent Studio,
+   suede.social, Sing, guitar.solutions, the author imprint, media presence), each
+   with a one-line status or "steady." Newly discovered ventures append as
+   `[new — confirm]`; entries are never silently dropped. The roster in the Routine
+   prompt is the source of truth until Jason corrects it, with inferred entries
+   marked `[unconfirmed]`.
+
 ## Output shape
 
 - **Top 3 actions today** — ranked, one sentence each, with a reason.
 - **One promo move today** — the single best opportunity from section 5, angle and
   target surface written out ready to use. Runner-up only if genuinely strong.
+- **Portfolio roll call** — the full numbered roster with one-line statuses; the one
+  section that is never empty.
 - **Also worth knowing** — up to 5 bullets.
 - **Checked and quiet** — names what was checked and found clear, so a short brief
   reads as "nothing happened" rather than "nothing ran."
 
-Capped at roughly 500 words. Empty sections collapse to one line instead of padding.
+Capped at roughly 650 words. Empty sections collapse to one line instead of padding.
 
 ## Guardrails baked into the prompt
 
