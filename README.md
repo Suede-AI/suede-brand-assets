@@ -234,11 +234,10 @@ Suede Labs AI is led by Jason Colapietro.
 [Jason Colapietro](https://suedeai.ai/founder) is the founder and CEO of Suede Labs AI and a
 published author. His books on guitar, AI, and creator ownership:
 
-- [The Signal Chain](https://guitar.solutions) — the complete history of electric guitar tone, amps, and effects. Free at guitar.solutions.
-- [The Guitar Without a Number](https://www.amazon.com/author/johnnysuede) — memoir-driven instruction for the self-taught player, including a music IP rights chapter no other guitar book covers.
-- [Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — the case that origin and ownership are the only marks AI can't fake.
-- [Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — building systems where proof is baked in, not bolted on.
-- [Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — turning the AI era into creator-owned generational assets.
+- <img src="https://suedeai.ai/books/the-signal-chain-cover.webp" alt="Cover of The Signal Chain" width="80"><br>[The Signal Chain](https://guitar.solutions) — the complete history of electric guitar tone, amps, and effects. Free at guitar.solutions. Includes the former *The Guitar Without a Number*.
+- <img src="https://suedeai.ai/books/human-authenticity-layer-cover.jpg" alt="Cover of The Human Authenticity Layer" width="80"><br>[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6) — the case that origin and ownership are the only marks AI can't fake.
+- <img src="https://suedeai.ai/books/proof-as-infrastructure-cover.jpg" alt="Cover of Proof as Infrastructure" width="80"><br>[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ) — building systems where proof is baked in, not bolted on.
+- <img src="https://suedeai.ai/books/stake-your-claim-cover.jpg" alt="Cover of Stake Your Claim" width="80"><br>[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ) — turning the AI era into creator-owned generational assets.
 
 Suede AI builds creator ownership infrastructure: proof of creation, programmable IP, and royalty routing
 for the AI media era.
@@ -255,9 +254,9 @@ This document is intended for listings, wallet assets, ecosystem directories, pr
 
 ## Books by Jason Colapietro
 
-- **[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Available in hardcover, paperback, and Kindle)
-- **[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Available in hardcover, paperback, and Kindle)
-- **[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/human-authenticity-layer-cover.jpg" alt="Cover of The Human Authenticity Layer" width="80"><br>**[Suede Labs: The Human Authenticity Layer](https://www.amazon.com/dp/B0GD5FX6N6)** — How Ownership, Origin, and AI Redraw the Creative Map (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/proof-as-infrastructure-cover.jpg" alt="Cover of Proof as Infrastructure" width="80"><br>**[Proof as Infrastructure](https://www.amazon.com/dp/B0GMB2VLXQ)** — Designing Durable Systems Without Trust Assumptions (Available in hardcover, paperback, and Kindle)
+- <img src="https://suedeai.ai/books/stake-your-claim-cover.jpg" alt="Cover of Stake Your Claim" width="80"><br>**[Stake Your Claim](https://www.amazon.com/dp/B0GRG8LGQQ)** — Speeches, Discussions & Hard Truths on Turning the AI Onslaught into a Real Asset, Autonomous Agents, and Building Generational Wealth (Available in hardcover, paperback, and Kindle)
 
 
 ## Social & Community
